@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/akpahari03/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akpahari03/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/akpahari03/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akpahari03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akpahari03/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
