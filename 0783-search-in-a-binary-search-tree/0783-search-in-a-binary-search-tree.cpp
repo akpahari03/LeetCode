@@ -11,14 +11,10 @@
  */
 class Solution {
 public:
-    //interative way
+    //recursive  
     TreeNode* searchBST(TreeNode* root, int val) {
-        TreeNode* temp=root;
-        while(temp!=NULL) {
-            if(temp->val==val) return temp;
-            if(val>temp->val) temp=temp->right;
-            else temp=temp->left;
-        }
-        return NULL;
+        if(root==NULL || root->val==val) return root;
+        if(val<root->val) return searchBST(root->left,val);
+        else return searchBST(root->right,val);
     }
 };
