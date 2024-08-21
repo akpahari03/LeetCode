@@ -12,8 +12,8 @@ var createCounter = function(init) {
             return --presentCount
         },
         reset() {
-            presentCount=init
-            return presentCount
+            return presentCount=init
+            // return presentCount
         }
     }
 };
