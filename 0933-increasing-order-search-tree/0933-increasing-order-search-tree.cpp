@@ -20,12 +20,11 @@ public:
     TreeNode* convert(vector<int>& in) {
         TreeNode* root= new TreeNode(in[0]);
         TreeNode* curr=root;
-        curr->left=NULL;
         for(int i=1;i<in.size();i++) {
             TreeNode* temp=new TreeNode(in[i]);
+            curr->left=NULL;
             curr->right=temp;
             curr=curr->right;
-            curr->left=NULL;
         }
         return root;
     }
