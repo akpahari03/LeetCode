@@ -21,8 +21,8 @@ public:
         vector<int> in;
         inorder(root,in);
         int diff=INT_MAX;
-        for(int i=0;i<in.size()-1;i++){
-            int temp=abs(in[i]-in[i+1]);
+        for(int i=1;i<in.size();i++){
+            int temp=in[i]-in[i-1];
             diff=min(diff,temp);
         }
         return diff;
