@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1285-balance-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akpahari03/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akpahari03/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akpahari03/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akpahari03/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akpahari03/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1285-balance-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akpahari03/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akpahari03/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1285-balance-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akpahari03/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akpahari03/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akpahari03/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akpahari03/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2727-number-of-senior-citizens](https://github.com/akpahari03/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akpahari03/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
