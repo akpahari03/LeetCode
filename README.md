@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/akpahari03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/akpahari03/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0449-serialize-and-deserialize-bst](https://github.com/akpahari03/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0564-find-the-closest-palindrome](https://github.com/akpahari03/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/akpahari03/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/akpahari03/LeetCode/tree/master/0664-strange-printer) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akpahari03/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/akpahari03/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0264-ugly-number-ii](https://github.com/akpahari03/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/akpahari03/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/akpahari03/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/akpahari03/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/akpahari03/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/akpahari03/LeetCode/tree/master/0870-magic-squares-in-grid) |
