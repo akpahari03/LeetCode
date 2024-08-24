@@ -55,6 +55,3 @@ private:
         return palindrome;
     }
 };
-
-
-//https://leetcode.com/problems/find-the-closest-palindrome/submissions/1366449944/
