@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/akpahari03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akpahari03/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akpahari03/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akpahari03/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akpahari03/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/akpahari03/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akpahari03/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
@@ -397,4 +401,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akpahari03/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
