@@ -10,9 +10,7 @@ var ArrayWrapper = function(nums) {
  * @return {number}
  */
 ArrayWrapper.prototype.valueOf = function() {
-    return this.array.reduce((sum,num) => {
-        return (sum+num)
-    },0)
+    return this.array.reduce((sum,num) => (sum+num),0)
 }
 
 /**
