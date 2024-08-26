@@ -21,14 +21,14 @@ public:
 class Solution {
 public:
     void solve(Node* root,vector<int>& ans) {
-        for(Node* x:root->children) {
-            solve(x,ans);
+        if(root==NULL) return;
+        for(auto child:root->children) {
+            solve(child,ans);
         }
         ans.push_back(root->val);
     }
     vector<int> postorder(Node* root) {
       vector<int> ans;
-      if(root==NULL) return ans;
       solve(root,ans);
       return ans;  
     }
