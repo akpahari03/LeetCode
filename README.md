@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akpahari03/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/akpahari03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/akpahari03/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akpahari03/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/akpahari03/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akpahari03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akpahari03/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akpahari03/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -395,11 +398,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/akpahari03/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0449-serialize-and-deserialize-bst](https://github.com/akpahari03/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akpahari03/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akpahari03/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
