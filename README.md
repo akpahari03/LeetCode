@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akpahari03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-reorganize-string](https://github.com/akpahari03/LeetCode/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/akpahari03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akpahari03/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/akpahari03/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akpahari03/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0778-reorganize-string](https://github.com/akpahari03/LeetCode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akpahari03/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akpahari03/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/akpahari03/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/akpahari03/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akpahari03/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/akpahari03/LeetCode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/akpahari03/LeetCode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akpahari03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -272,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/akpahari03/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/akpahari03/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/akpahari03/LeetCode/tree/master/0664-strange-printer) |
+| [0778-reorganize-string](https://github.com/akpahari03/LeetCode/tree/master/0778-reorganize-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akpahari03/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akpahari03/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akpahari03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -363,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/akpahari03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/akpahari03/LeetCode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/akpahari03/LeetCode/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akpahari03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
