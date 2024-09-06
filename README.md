@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/akpahari03/LeetCode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/akpahari03/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/akpahari03/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/akpahari03/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akpahari03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akpahari03/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/akpahari03/LeetCode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/akpahari03/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
