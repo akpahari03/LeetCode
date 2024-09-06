@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/akpahari03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akpahari03/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/akpahari03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/akpahari03/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/akpahari03/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/akpahari03/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
