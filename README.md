@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/akpahari03/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/akpahari03/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akpahari03/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/akpahari03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akpahari03/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/akpahari03/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/akpahari03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/akpahari03/LeetCode/tree/master/1240-stone-game-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akpahari03/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/akpahari03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/akpahari03/LeetCode/tree/master/2155-find-missing-observations) |
 ## Linked List
 |  |
@@ -558,4 +560,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/akpahari03/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
