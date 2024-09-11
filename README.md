@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/akpahari03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/akpahari03/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akpahari03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/akpahari03/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/akpahari03/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akpahari03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/akpahari03/LeetCode/tree/master/0733-flood-fill) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/akpahari03/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0542-01-matrix](https://github.com/akpahari03/LeetCode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/akpahari03/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akpahari03/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/akpahari03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/akpahari03/LeetCode/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/akpahari03/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0542-01-matrix](https://github.com/akpahari03/LeetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/akpahari03/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/akpahari03/LeetCode/tree/master/0664-strange-printer) |
 | [0954-maximum-sum-circular-subarray](https://github.com/akpahari03/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -462,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/akpahari03/LeetCode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0542-01-matrix](https://github.com/akpahari03/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akpahari03/LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/akpahari03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/akpahari03/LeetCode/tree/master/0921-spiral-matrix-iii) |
