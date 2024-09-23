@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akpahari03/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2727-number-of-senior-citizens](https://github.com/akpahari03/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akpahari03/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akpahari03/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akpahari03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akpahari03/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2755-extra-characters-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akpahari03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akpahari03/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akpahari03/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/akpahari03/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akpahari03/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akpahari03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/akpahari03/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akpahari03/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akpahari03/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2755-extra-characters-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Graph
 |  |
 | ------- |
@@ -646,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/akpahari03/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/akpahari03/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
