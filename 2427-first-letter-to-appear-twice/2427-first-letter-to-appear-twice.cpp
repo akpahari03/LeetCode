@@ -1,10 +1,11 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        unordered_map<char,int> mp;
+        bool isSeen[26] = {false};
         for(int i=0;i<s.length();i++) {
-            mp[s[i]]++;
-            if(mp[s[i]]==2) return s[i];
+            int idx = s[i] - 'a';
+            if(isSeen[idx]) return s[i];
+            isSeen[idx] = true;
         }
         return 0;
     }
