@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/akpahari03/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/akpahari03/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/akpahari03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/akpahari03/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/akpahari03/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/akpahari03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/akpahari03/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/akpahari03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/akpahari03/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/akpahari03/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/akpahari03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akpahari03/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
