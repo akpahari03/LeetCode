@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/akpahari03/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akpahari03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/akpahari03/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/akpahari03/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/akpahari03/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/akpahari03/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/akpahari03/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/akpahari03/LeetCode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akpahari03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
