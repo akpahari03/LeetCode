@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/akpahari03/LeetCode/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akpahari03/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/akpahari03/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/akpahari03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akpahari03/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/akpahari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akpahari03/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/akpahari03/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/akpahari03/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/akpahari03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/akpahari03/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/akpahari03/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/akpahari03/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/akpahari03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akpahari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/akpahari03/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akpahari03/LeetCode/tree/master/2058-concatenation-of-array) |
