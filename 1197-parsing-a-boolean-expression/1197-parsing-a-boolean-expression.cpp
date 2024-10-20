@@ -7,7 +7,7 @@ public:
         else if(op=='&') {
             return any_of(arr.begin(),arr.end(),[](char ch) {return ch=='f';}) ? 'f' : 't';
         }
-        else {
+        else { //for '|'
             return any_of(arr.begin(),arr.end(),[](char ch) {return ch=='t';}) ? 't' : 'f';
         }
     }
@@ -22,9 +22,9 @@ public:
                     arr.push_back(st.top());
                     st.pop();
                 }
-                st.pop();
+                st.pop(); //pop the ')'
                 char op = st.top();
-                st.pop();
+                st.pop(); //pop the operator
                 st.push(solve(arr,op));
             } else st.push(expression[i]);
         }
