@@ -1,6 +1,10 @@
 class Solution {
 public:
     void solve(int i , string &s,unordered_set<string>& st,int currCount,int& maxCount) {
+        //slight improvement - pruning
+        if(currCount + (s.length() - i) <= maxCount) {
+            return;
+        }
         if(i==s.length()) {
             maxCount = max(maxCount,currCount);
             return;
