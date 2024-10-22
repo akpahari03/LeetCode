@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akpahari03/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akpahari03/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akpahari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/akpahari03/LeetCode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/akpahari03/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akpahari03/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akpahari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akpahari03/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akpahari03/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akpahari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -353,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akpahari03/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akpahari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/akpahari03/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akpahari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akpahari03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
