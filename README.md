@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/akpahari03/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/akpahari03/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/akpahari03/LeetCode/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/akpahari03/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/akpahari03/LeetCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/akpahari03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/akpahari03/LeetCode/tree/master/0890-lemonade-change) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/akpahari03/LeetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/akpahari03/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/akpahari03/LeetCode/tree/master/0664-strange-printer) |
+| [0747-min-cost-climbing-stairs](https://github.com/akpahari03/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akpahari03/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/akpahari03/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/akpahari03/LeetCode/tree/master/1196-filling-bookcase-shelves) |
