@@ -4,10 +4,8 @@ public:
         int n = s.length();
         int m = goal.length();
         if(n!=m) return false;
-        for(int i=1;i<=m;i++) {
-            rotate(s.begin(),s.begin()+1,s.end());
-            if(s==goal) return true;
-        }
-        return false; 
+        if((s+s).find(goal) != string::npos) return true;
+        return false;
+
     }
 };
