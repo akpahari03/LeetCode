@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akpahari03/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akpahari03/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/akpahari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/akpahari03/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akpahari03/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akpahari03/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/akpahari03/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/akpahari03/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akpahari03/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akpahari03/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/akpahari03/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akpahari03/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akpahari03/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akpahari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akpahari03/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akpahari03/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/akpahari03/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/akpahari03/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akpahari03/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akpahari03/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/akpahari03/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
