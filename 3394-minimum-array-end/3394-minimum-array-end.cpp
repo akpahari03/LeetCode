@@ -4,10 +4,7 @@ public:
         long long num = x;
 
         for(int i = 1; i < n; i++) {
-
-            //num+1
             num = (num+1) | x;
-            
         }
 
         return num;
