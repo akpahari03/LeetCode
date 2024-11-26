@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/akpahari03/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/akpahari03/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3188-find-champion-i](https://github.com/akpahari03/LeetCode/tree/master/3188-find-champion-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akpahari03/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/akpahari03/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akpahari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -742,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akpahari03/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/akpahari03/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/akpahari03/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3188-find-champion-i](https://github.com/akpahari03/LeetCode/tree/master/3188-find-champion-i) |
 ## Simulation
 |  |
 | ------- |
