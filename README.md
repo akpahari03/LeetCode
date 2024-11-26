@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/akpahari03/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/akpahari03/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/akpahari03/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/akpahari03/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/akpahari03/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akpahari03/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akpahari03/LeetCode/tree/master/0053-maximum-subarray) |
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/akpahari03/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/akpahari03/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/akpahari03/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/akpahari03/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akpahari03/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/akpahari03/LeetCode/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/akpahari03/LeetCode/tree/master/0257-binary-tree-paths) |
