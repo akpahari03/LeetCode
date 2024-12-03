@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/akpahari03/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akpahari03/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/akpahari03/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akpahari03/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akpahari03/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akpahari03/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akpahari03/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akpahari03/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akpahari03/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/akpahari03/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/akpahari03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2580-circular-sentence](https://github.com/akpahari03/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/akpahari03/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -642,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/akpahari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/akpahari03/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akpahari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/akpahari03/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akpahari03/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akpahari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/akpahari03/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -801,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/akpahari03/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akpahari03/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/akpahari03/LeetCode/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/akpahari03/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akpahari03/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akpahari03/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/akpahari03/LeetCode/tree/master/2411-spiral-matrix-iv) |
