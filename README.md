@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0099-recover-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/akpahari03/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/akpahari03/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/akpahari03/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akpahari03/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akpahari03/LeetCode/tree/master/0040-combination-sum-ii) |
