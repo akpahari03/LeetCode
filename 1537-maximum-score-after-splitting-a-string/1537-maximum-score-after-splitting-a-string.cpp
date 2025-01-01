@@ -3,16 +3,20 @@ public:
     int maxScore(string s) {
         int maxi = INT_MIN;
         int n = s.length();
+        int total_ones = 0;
+        for(int i=0;i<n;i++) {
+            if(s[i]=='1') total_ones++;
+        }
         for(int i=0;i<n-1;i++) {
-            int zero = 0;
-            int one = 0;
+            int left_zeros = 0;
+            int left_ones = 0;
+            int right_ones = 0;
             for(int j=0;j<=i;j++) {
-                if(s[j]=='0') zero++;
+                if(s[j]=='0') left_zeros++;
+                else  left_ones++;
             }
-            for(int k=i+1;k<n;k++) {
-                if(s[k]=='1') one++;
-            }
-            maxi = max(maxi,zero+one);
+            right_ones = total_ones-left_ones;
+            maxi = max(maxi,left_zeros+right_ones);
         }
         return maxi;
     }
