@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akpahari03/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akpahari03/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/akpahari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1656-count-good-triplets](https://github.com/akpahari03/LeetCode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/akpahari03/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/akpahari03/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akpahari03/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -1057,4 +1058,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/akpahari03/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/akpahari03/LeetCode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
