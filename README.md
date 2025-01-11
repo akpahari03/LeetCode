@@ -747,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/akpahari03/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/akpahari03/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/akpahari03/LeetCode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/akpahari03/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/akpahari03/LeetCode/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/akpahari03/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/akpahari03/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -962,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/akpahari03/LeetCode/tree/master/0292-nim-game) |
 | [1240-stone-game-ii](https://github.com/akpahari03/LeetCode/tree/master/1240-stone-game-ii) |
 ## Monotonic Stack
 |  |
@@ -1057,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/akpahari03/LeetCode/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akpahari03/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Topological Sort
 |  |
