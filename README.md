@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/akpahari03/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akpahari03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akpahari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/akpahari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akpahari03/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-first-letter-to-appear-twice](https://github.com/akpahari03/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/akpahari03/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akpahari03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/akpahari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akpahari03/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akpahari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/akpahari03/LeetCode/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/akpahari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
 | ------- |
