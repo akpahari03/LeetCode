@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/akpahari03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/akpahari03/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akpahari03/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/akpahari03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/akpahari03/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akpahari03/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/akpahari03/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akpahari03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akpahari03/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/akpahari03/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/akpahari03/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/akpahari03/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -651,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/akpahari03/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akpahari03/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/akpahari03/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/akpahari03/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/akpahari03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/akpahari03/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -880,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/akpahari03/LeetCode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/akpahari03/LeetCode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/akpahari03/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/akpahari03/LeetCode/tree/master/0542-01-matrix) |
