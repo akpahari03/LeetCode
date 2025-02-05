@@ -579,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/akpahari03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akpahari03/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/akpahari03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/akpahari03/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/akpahari03/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/akpahari03/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/akpahari03/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/akpahari03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akpahari03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/akpahari03/LeetCode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/akpahari03/LeetCode/tree/master/0295-find-median-from-data-stream) |
