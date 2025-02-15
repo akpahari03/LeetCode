@@ -677,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/akpahari03/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/akpahari03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/akpahari03/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/akpahari03/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -807,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/akpahari03/LeetCode/tree/master/2155-find-missing-observations) |
 | [2556-convert-the-temperature](https://github.com/akpahari03/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2716-prime-subtraction-operation](https://github.com/akpahari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/akpahari03/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akpahari03/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akpahari03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akpahari03/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
