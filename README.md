@@ -668,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akpahari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/akpahari03/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akpahari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3567-convert-date-to-binary](https://github.com/akpahari03/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -821,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akpahari03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akpahari03/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akpahari03/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/akpahari03/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Linked List
 |  |
 | ------- |
