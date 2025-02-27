@@ -433,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akpahari03/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akpahari03/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/akpahari03/LeetCode/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/akpahari03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/akpahari03/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/akpahari03/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/akpahari03/LeetCode/tree/master/0952-word-subsets) |
@@ -620,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/akpahari03/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/akpahari03/LeetCode/tree/master/0664-strange-printer) |
 | [0778-reorganize-string](https://github.com/akpahari03/LeetCode/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/akpahari03/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/akpahari03/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/akpahari03/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akpahari03/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
