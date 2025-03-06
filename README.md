@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/akpahari03/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/akpahari03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3188-find-champion-i](https://github.com/akpahari03/LeetCode/tree/master/3188-find-champion-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/akpahari03/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akpahari03/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/akpahari03/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akpahari03/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akpahari03/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/akpahari03/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akpahari03/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/akpahari03/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/akpahari03/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akpahari03/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/akpahari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/akpahari03/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akpahari03/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akpahari03/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/akpahari03/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akpahari03/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akpahari03/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/akpahari03/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -966,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/akpahari03/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/akpahari03/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3188-find-champion-i](https://github.com/akpahari03/LeetCode/tree/master/3188-find-champion-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/akpahari03/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
