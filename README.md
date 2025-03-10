@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akpahari03/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akpahari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akpahari03/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/akpahari03/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -682,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/akpahari03/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akpahari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/akpahari03/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/akpahari03/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -902,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/akpahari03/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/akpahari03/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/akpahari03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/akpahari03/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
 |  |
 | ------- |
