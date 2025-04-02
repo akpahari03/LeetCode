@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/akpahari03/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akpahari03/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akpahari03/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/akpahari03/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/akpahari03/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/akpahari03/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/akpahari03/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/akpahari03/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akpahari03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akpahari03/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akpahari03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -928,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/akpahari03/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akpahari03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/akpahari03/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/akpahari03/LeetCode/tree/master/0435-non-overlapping-intervals) |
