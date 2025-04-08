@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/akpahari03/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/akpahari03/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/akpahari03/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akpahari03/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akpahari03/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/akpahari03/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akpahari03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akpahari03/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/akpahari03/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akpahari03/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/akpahari03/LeetCode/tree/master/0127-word-ladder) |
@@ -1021,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/akpahari03/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/akpahari03/LeetCode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/akpahari03/LeetCode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/akpahari03/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/akpahari03/LeetCode/tree/master/0906-walking-robot-simulation) |
