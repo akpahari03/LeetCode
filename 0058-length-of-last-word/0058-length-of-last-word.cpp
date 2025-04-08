@@ -1,10 +1,12 @@
-//USING STL
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        int idx = s.find_last_not_of(' ') + 1;
-        s.erase(idx);
-        int last_space_idx = s.find_last_of(' ');
-        return last_space_idx == string::npos ? s.length() : s.length() - last_space_idx - 1;
+        int n = s.length();
+        int count = 0;
+        for(int i=n-1;i>=0;i--) {
+            if(s[i] != ' ') count++;
+            if(s[i]==' ' && count!=0) break;
+        }
+        return count;
     }
 };
