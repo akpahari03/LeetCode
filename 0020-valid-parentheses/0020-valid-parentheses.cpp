@@ -3,19 +3,14 @@ public:
     bool isValid(string s) {
         stack<char> st;
         for(int i=0;i<s.length();i++) {
-            char ch=s[i];
-            //if opening bracket - push in stack
-            if(ch =='(' || ch == '{' || ch == '[' ) {
+            char ch = s[i];
+            if(ch=='(' || ch=='{' || ch=='[') {
                 st.push(ch);
             }
             else {
-                // closing bracket = pop from top
                 if(!st.empty()) {
                     char top = st.top();
-                    if( (ch == ')' && top == '(') || 
-                        (ch == '}' && top == '{') || 
-                        (ch == ']' && top == '[') ) 
-                    {
+                    if((ch==')' && top =='(') || (ch=='}' && top == '{') || (ch==']' && top == '[')) {
                         st.pop();
                     }
                     else return false;
@@ -24,6 +19,6 @@ public:
             }
         }
         if(st.empty()) return true;
-        else return false;
+        return false;
     }
 };
