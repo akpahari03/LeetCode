@@ -2,7 +2,7 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.length();
-        if(s=="") return 0;
+        if(s == "") return 0;
         vector<int> vis(256,-1);
         int l = 0;
         int r = 0;
