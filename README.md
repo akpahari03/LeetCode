@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/akpahari03/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akpahari03/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akpahari03/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/akpahari03/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/akpahari03/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/akpahari03/LeetCode/tree/master/0066-plus-one) |
@@ -1019,6 +1020,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/akpahari03/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akpahari03/LeetCode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/akpahari03/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/akpahari03/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/akpahari03/LeetCode/tree/master/0130-surrounded-regions) |
@@ -1053,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akpahari03/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akpahari03/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/akpahari03/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/akpahari03/LeetCode/tree/master/0068-text-justification) |
